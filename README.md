@@ -1,6 +1,6 @@
 :wave: Hey! Yash Ekbote here
 
-:adult: I'm currently 18 Years Old
+:adult: I'm 18 Years Old
 
 :seedling: Currently learning Solidity
 
