@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Yash Ekbote
-- 👀 I’m interested in Web3 & Blockchain
-- 🌱 I’m currently learning Solidity
-- 📫 Reach Me on - yashekbote.official@gmail.com
-- Let's Connect on Twitter @yashekbote
+:wave: Hey! Yash Ekbote Here
+:adult: I'm currently 18 Years Old
+:computer: I'm a Front-End Developer
+:seedling: Currently learning Solidity
+:hammer_and_wrench: Curious about Web3 & Blockchain
+:handshake: Let's connect on [Twitter](twitter.com/yashekbote)
+:mailbox_closed: For Collaborations : yashekbote.official@gmail.com
 
 <!---
 ekboteyash/ekboteyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
