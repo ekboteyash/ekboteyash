@@ -8,6 +8,8 @@
 
 :bird: Twitter - [@yashekbote](https://twitter.com/yashekbote)
 
+🎥 I create Web3 & Blockchain Content on my [YouTube Channel](youtube.com/friendlycoder)
+
 :mailbox_closed: For Collaborations : yashekbote.official@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekboteyash)](https://github.com/anuraghazra/github-readme-stats)
